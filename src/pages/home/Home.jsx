@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const Home = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return <div className="container mx-auto"></div>;
 };
 
 export default Home;
